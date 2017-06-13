@@ -8,8 +8,9 @@
 <!---Substitua por sua foto na pasta--->
 <img src="assets/images/you.png" alt="You" style="width: 200px;"/>
 
-### <span class="pd-gray">Seu Nome</span>
-##### <span class="pd-gray">Texto</span>
+### <span class="pd-gray">Guilherme Magalhães</span>
+##### <span class="pd-gray">Sistemas de Informação - Uff</span>
+##### <span class="pd-gray"> Iniciação Científica - UFF/LNCC</span>
 
 <!----------------------------------------------->
 ---?image=assets/images/bg3.png
