@@ -1,6 +1,6 @@
 ---?image=assets/images/bg2.png
 
-## <span class="pd-gray">Docker</span>
+
 <img src="assets/images/docker.png" alt="Docker" style="width: 400px;"/>
 
 <!----------------------------------------------->
@@ -9,8 +9,8 @@
 <img src="assets/images/you.png" alt="You" style="width: 250px;"/>
 
 ### <span class="pd-gray">Guilherme Magalhães</span>
-###### <span class="pd-gray">Sistemas de Informação - Uff</span>
-###### <span class="pd-gray"> Iniciação Científica - UFF/LNCC</span>
+####### <span class="pd-gray">Sistemas de Informação - Uff</span>
+####### <span class="pd-gray"> Iniciação Científica - UFF/LNCC</span>
 
 <!----------------------------------------------->
 ---?image=assets/images/bg3.png
